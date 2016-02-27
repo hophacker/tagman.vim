@@ -1,5 +1,6 @@
 # tagman.vim
 
+[Doc](http://dance.computer.dance/posts/2015/04/using-ctags-on-modern-javascript.html)
 Yet another Vim plugin for automatically generating [ctags](http://ctags.sourceforge.net/) files for your projects when files are saved and setting `tags` accordingly.
 
 By default vendor or library code such as gem files and node modules are
